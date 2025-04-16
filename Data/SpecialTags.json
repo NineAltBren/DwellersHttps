@@ -7,6 +7,11 @@
 	"Youtuber": {
 		"Text": "Youtuber",
 		"Color": [255, 0, 0],
-		"Users": [""]
-	}
+		"Users": ["Roblox_pago"]
+	},
+ "Challenger" : {
+  "Text" : "Challenger"
+  "Color" : [150,150,150]
+  "Users" : ["bhavu19"]
+ }
 }
