@@ -1,0 +1,12 @@
+{
+	"Owner": {
+		"Text": "Owner",
+		"Color": [234, 255, 0],
+		"Users": [""]
+	},
+	"Youtuber": {
+		"Text": "Youtuber",
+		"Color": [255, 0, 0],
+		"Users": [""]
+	}
+}
