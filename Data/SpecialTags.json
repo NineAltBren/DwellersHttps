@@ -13,5 +13,10 @@
   "Text": "Challenger",
   "Color": [150,150,150],
   "Users": ["bhavu19"]
- }
+ },
+"BrainStormer": {
+		"Text": "BrainStormer",
+		"Color": [0, 255, 255],
+		"Users": ["ZED33312"]
+	},
 }
