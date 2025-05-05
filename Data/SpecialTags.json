@@ -28,5 +28,10 @@
 "Text": "Artist",
 "Color": [255,0,255],
 "Users": ["PlantVoice10"]
+},
+"Top Donator": {
+"Text": "Top Donator",
+"Color": [0,255,0],
+"Users": ["DreamWasXD18"]
 }
 }
