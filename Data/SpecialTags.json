@@ -4,6 +4,11 @@
 		"Color": [234, 255, 0],
 		"Users": ["Nineteen_DEV"]
 	},
+"Owner Alt": {
+		"Text": "Owner Alt",
+		"Color": [0, 255, 150],
+		"Users": ["DiezyNueveDev"]
+	},
 	"Youtuber": {
 		"Text": "Content Creator",
 		"Color": [255, 0, 0],
