@@ -48,5 +48,10 @@
 "Text": "Builder",
 "Color": [0,250,255],
 "Users": ["Kokoban31"]
+},
+"Modeler": {
+"Text": "Modeler",
+"Color": [61,204,18],
+"Users": ["ziglmn"]
 }
 }
