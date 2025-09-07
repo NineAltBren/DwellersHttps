@@ -24,10 +24,15 @@
 		"Color": [0, 255, 255],
 		"Users": ["ZED33312"]
 	},
-"MasterOfBugs [TESTER TEAM]": {
+"MasterOfBugs": {
 "Text": "MasterOfBugs [TESTER TEAM]",
 "Color": [93, 12, 117],
 "Users": ["uwhefegeheh3","wytbah309"]
+},
+"TESTERTEAM": {
+"Text": "TESTER TEAM",
+"Color": [0, 255, 119],
+"Users": ["hellbreakerbandu","fujitive22","nicolasrbn1000","The_one32534"]
 },
 "Artist": {
 "Text": "Artist",
