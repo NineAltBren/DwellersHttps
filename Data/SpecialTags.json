@@ -6,7 +6,7 @@
 	},
 	"Friend": {
 		"Text": "Friend",
-		"Color": [27, 110, 245],
+		"Color": [0, 153, 255],
 		"Users": ["Mr_Chomppy"]
 	},
 "OwnerAlt": {
