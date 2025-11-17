@@ -37,7 +37,7 @@
 "TESTERTEAM": {
 "Text": "TESTER TEAM",
 "Color": [0, 255, 119],
-"Users": ["hellbreakerbandu","fujitive22","The_one32534"]
+"Users": ["hellbreakerbandu","The_one32534"]
 },
 "Artist": {
 "Text": "Artist",
@@ -63,5 +63,10 @@
 "Text": "Modeler",
 "Color": [61,204,18],
 "Users": ["ziglmn"]
+},
+"CRAZY] [TESTERTEAM": {
+"Text": "TESTER TEAM",
+"Color": [0, 255, 119],
+"Users": ["fujitive22"]
 }
 }
