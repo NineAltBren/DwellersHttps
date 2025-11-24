@@ -4,9 +4,14 @@
 		"Color": [255, 255, 0],
 		"Users": ["Nineteen_DEV"]
 	},
-	"Mod": {
-		"Text": "Mod",
+	"Moderation Team": {
+		"Text": "Moderation Team",
 		"Color": [100, 0, 0],
+		"Users": []
+	},
+	"Special Moderation Team": {
+		"Text": "Special Moderation Team",
+		"Color": [24, 166, 237],
 		"Users": ["Mr_Chomppy","nicolasrbn1000"]
 	},
 "OwnerAlt": {
