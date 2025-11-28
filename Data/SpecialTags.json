@@ -28,7 +28,7 @@
 		"Text": "BrainStormer",
 		"Color": [0, 255, 255],
 		"Users": ["ZED33312"]
-	},
+},
 "MasterOfBugs": {
 "Text": "MasterOfBugs [TESTER TEAM]",
 "Color": [93, 12, 117],
@@ -39,30 +39,20 @@
 "Color": [0, 255, 119],
 "Users": ["hellbreakerbandu","The_one32534","Denis123ohio"]
 },
-"Artist": {
-"Text": "Artist",
-"Color": [255,0,255],
-"Users": ["PlantVoice10"]
-},
 "Top Donator": {
 "Text": "Top Donator",
 "Color": [0,255,0],
 "Users": ["DreamWasXD18"]
 },
-"Suggester": {
-"Text": "Suggester",
+"Idea Maker": {
+"Text": "Idea Maker",
 "Color": [0,0,255],
-"Users": ["Speedyking11111"]
+"Users": ["xbcross13"]
 },
 "Builder": {
 "Text": "Builder",
 "Color": [0,250,255],
 "Users": ["Kokoban31"]
-},
-"Modeler": {
-"Text": "Modeler",
-"Color": [61,204,18],
-"Users": ["ziglmn"]
 },
 "CRAZY] [TESTERTEAM": {
 "Text": "CRAZY] [TESTERTEAM",
