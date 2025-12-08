@@ -7,7 +7,12 @@
 	"Moderation Team": {
 		"Text": "Moderation Team",
 		"Color": [100, 0, 0],
-		"Users": ["artferbr2","Sol_LMRR"]
+		"Users": ["Sol_LMRR"]
+	},
+	"The Best][Moderation Team": {
+		"Text": "The Best][Moderation Team",
+		"Color": [100, 0, 0],
+		"Users": ["artferbr2"]
 	},
 	"Special Moderation Team": {
 		"Text": "Special Moderation Team",
