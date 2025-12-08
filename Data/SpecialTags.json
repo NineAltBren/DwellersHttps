@@ -9,6 +9,12 @@
 		"Color": [100, 0, 0],
 		"Users": ["Sol_LMRR"]
 	},
+		},
+	"Winner": {
+		"Text": "Winner🏆",
+		"Color": [255,165,0],
+		"Users": ["Rubenator760"]
+	},
 	"The Best][Moderation Team": {
 		"Text": "The Best][Moderation Team",
 		"Color": [100, 0, 0],
