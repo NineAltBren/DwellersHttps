@@ -7,7 +7,7 @@
 	"Moderation Team": {
 		"Text": "Moderation Team",
 		"Color": [100, 0, 0],
-		"Users": ["Sol_LMRR","Denis123ohio"]
+		"Users": ["Sol_LMRR"]
 	},
 	"Winner": {
 		"Text": "Winner🏆",
@@ -22,7 +22,7 @@
 	"Special Moderation Team": {
 		"Text": "Lead Moderation Team",
 		"Color": [24, 166, 237],
-		"Users": ["nicolasrbn1000","artferbr2"]
+		"Users": ["nicolasrbn1000","artferbr2","Denis123ohio"]
 	},
 	"Youtuber": {
 		"Text": "Video Maker",
