@@ -22,7 +22,12 @@
 	"Special Moderation Team": {
 		"Text": "Lead Moderation Team",
 		"Color": [24, 166, 237],
-		"Users": ["nicolasrbn1000","artferbr2"]
+		"Users": ["nicolasrbn1000"]
+	},
+	"Game Manager": {
+		"Text": "Lead Moderation Team",
+		"Color": [24, 166, 237],
+		"Users": ["artferbr2"]
 	},
 	"Youtuber": {
 		"Text": "Video Maker",
